@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Lokesh</h1>
-<h3 align="center">A passionate Machine Learning/AI Engineer ,Data Analyst from India</h3>
+<h3 align="center">Highly motivated engineering student with a passion for problem-solving and a solid foundation in artificial
+intelligence and Machine Learning. Eager to apply theoretical knowledge to real-world projects and contribute
+to innovative solutions in AI.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lokesh2525&label=Profile%20views&color=0e75b6&style=flat" alt="lokesh2525" /> </p>
 
