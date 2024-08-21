@@ -8,7 +8,7 @@ to innovative solutions in AI.
 
 - 🌱 I’m currently learning **Artificial Intelligence And Machine Leraning.**
 
-- 💬 Ask me about **Machine Learning,Deep Learning ,NLP,Computer VisionPowerBI**
+- 💬 Ask me about **Python ,Machine Learning, Deep Learning, NLP(Natural Language Processing), Computer Vision, PowerBI**
 
 - 📫 How to reach me **lokeshfegade2525@gmail.com**
 
